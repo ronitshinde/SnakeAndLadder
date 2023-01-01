@@ -4,7 +4,7 @@ namespace SnakeAndLadder
     {
         public static void Main(String[] args) 
         {
-            Console.WriteLine("Welcome to snake and ladder simulation"
+            StartPosition.PlayerOne();    
         }
     }
 }
