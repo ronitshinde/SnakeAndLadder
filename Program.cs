@@ -6,7 +6,8 @@
         {
             //RollsTheDie.FirstTime();
             //CheckOptions.ToMakeMove();
-            WinningPosition.ToHundred();   
+            //WinningPosition.ToHundred();
+            UptoWinPosition.TillHundred();
         }
     }
 }
